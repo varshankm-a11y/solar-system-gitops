@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: solar-system
-        image: 211125513710.dkr.ecr.us-east-1.amazonaws.com/solar-system:ea07e02ea25e1e90d4db086b0ff8dd1578ea37e6
+        image: 455986776549.dkr.ecr.us-east-1.amazonaws.com/solar-system:24cb8c7a02c37be0c398554549cc4a0602196dd4
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
